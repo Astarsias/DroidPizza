@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DroidPizza</string>
+    <string name="userName">Nom</string>
+    <string name="userFirstName">Prénom</string>
+    <string name="adresse">Adresse</string>
+    <string name="suivant">Suivant</string>
+    <string name="resumedelacommande">Résumé de la Commande</string>
+    <string name="phoneNumber">Numéro de Téléphone</string>
+    <string name="commande">Commande</string>
+    <string name="heuredelivraison">Heure de Livraison</string>
+    <string name="validerlacommande">Valider la Commande</string>
+    <string name="Choosepizza">Choisissez vôtre pizza</string>
+    <string name="pizza">Pizza</string>
+    <string name="no_image">no image</string>
+    <string name="choose">Choisir Heure de Livraison</string>
+    <string name="emailconf">Envoyer email de confirmation</string>
+    <string name="selected_pizza" />
+    <string name="selected_hour" />
+    <string name="selected_min" />
+
+    <string-array name="pizzas">
+        <item>Choisissez vôtre pizza</item>
+        <item>4 Fromages</item>
+        <item>Calzone</item>
+        <item>Chevromiel</item>
+        <item>Merguez</item>
+        <item>Royale</item>
+        <item>Napolitaine</item>
+        <item>Margherita</item>
+    </string-array>
+</resources>
